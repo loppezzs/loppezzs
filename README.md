@@ -1,2 +1,2 @@
 <p align="center">
-  <img src="https://64.media.tumblr.com/5b51ad526c0e5c1b4217dde367f6fa09/a0c982a23af10c02-45/s250x400/acdbd2aa6869b16c07b2a354657a482b187b9e6e.gif" width="400" />
+  <img src="https://64.media.tumblr.com/6062ce57a6533f1b2800ceff1abc218c/c6e1be4eb93c3d73-0f/s100x200/0eb1ca8543e8c4d76f8f8e0882a726af5e7d0fc6.gif" width="400" />
