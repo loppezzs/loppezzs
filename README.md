@@ -4,4 +4,4 @@
     <p align="center">
 <p align="center">
 <details>
-  <summary> ${\textsf{\color{#CC338B}  }}$ ${\textsf{\color{#CC338B} nothing}}$ ${\textsf{\color{#CC338B} here}}$ ${\textsf{\color{#CC338B} }}$ ${\textsf{\color{#CC338B} for}}$ ${\textsf{\color{#CC338B} u !}}$ ${\textsf{\color{#CC338B} 🍬 }}$ </summary><br>
+  <summary> ${\textsf{\color{#CC338B}  }}$ ${\textsf{\color{#CC338B} nothing}}$ ${\textsf{\color{#CC338B} here}}$ ${\textsf{\color{#CC338B} for}}$ ${\textsf{\color{#CC338B} u }}$ ${\textsf{\color{#CC338B} 🍬 }}$ </summary><br>
