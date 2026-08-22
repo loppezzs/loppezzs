@@ -1,4 +1,7 @@
-Mmm
-<a href="https://github.com/misfortunes-s">my husband / salt</a>,
-<a href="https://github.com/sir-chloe">baby kaizer</a>,
-<a href="https://https://github.com/giggle-mut">gigglebutt</a>,
+<p align="center">
+  <img src="https://64.media.tumblr.com/b8fd88bd80d6e7767431b7ff96db3c80/f7c6fa23f690609d-01/s400x600/29a489f107c9b569649204c6bdf8d646d347a507.pnj" width="400" />
+  <p align="center">
+  <p align="center">
+
+ <p align="center">
+   ⠀
